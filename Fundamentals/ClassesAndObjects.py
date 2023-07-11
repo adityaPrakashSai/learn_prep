@@ -45,10 +45,8 @@ employeeTest = EmployeeTest(salary = 2)
 EmployeeTest.taxPercent = 0.4
 print(employeeTest.tax())
 
-# 6. lass method to create factory methods. Factory methods return class objects ( similar to a constructor ) for different use cases
+# 6. class method to create factory methods. Factory methods return class objects ( similar to a constructor ) for different use cases
 
-
-    
 
    
 
