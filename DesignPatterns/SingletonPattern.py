@@ -1,7 +1,7 @@
 
 """
 Singleton - Single object creation
-Examples: DB connection, Config file, Govt
+Examples:  DB connection, Config file, Govt
 """
 
 # 1. using static method
